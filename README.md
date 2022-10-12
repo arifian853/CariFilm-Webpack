@@ -12,6 +12,10 @@ Pada direktori utama folder, buka terminal lalu jalankan :
 ```
 npm run start-dev
 ```
+Web akan berjalan di web browser anda dengan port :
+```
+localhost:8080/
+```
 
 
 ## Teknologi yang dipakai : 
